@@ -1,0 +1,6 @@
+2023/01/27-15:01:08.287 3099 Creating DB /home/vinicius/WebstormProjects/wppbotgtp/tokens/chat-gpt/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/01/27-15:01:08.304 3099 Reusing MANIFEST /home/vinicius/WebstormProjects/wppbotgtp/tokens/chat-gpt/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/27-15:01:08.601 3096 Level-0 table #5: started
+2023/01/27-15:01:08.609 3096 Level-0 table #5: 7463 bytes OK
+2023/01/27-15:01:08.622 3096 Delete type=0 #3
+2023/01/27-15:01:08.622 3096 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
