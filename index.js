@@ -30,7 +30,6 @@ const getDavinciResponse = async (clientText) => {
         return `❌ OpenAI Response Error: ${e.response.data.error.message}`
     }
 }
-
 const getDalleResponse = async (clientText) => {
     const options = {
         prompt: clientText, // Descrição da imagem
